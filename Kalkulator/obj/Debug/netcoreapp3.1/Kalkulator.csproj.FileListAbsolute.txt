@@ -1,0 +1,32 @@
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.exe
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.deps.json
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.runtimeconfig.json
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.runtimeconfig.dev.json
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.dll
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.pdb
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.AssemblyReference.cache
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.AssemblyInfoInputs.cache
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.AssemblyInfo.cs
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.CoreCompileInputs.cache
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.dll
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.pdb
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.genruntimeconfig.cache
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Library Kalkulator.dll
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Library Kalkulator.pdb
+D:/VISUAL STUDIO 2019/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.CopyComplete
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.deps.json
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.runtimeconfig.json
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.runtimeconfig.dev.json
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.dll
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/Kalkulator.pdb
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/librarykal.dll
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.1/librarykal.pdb
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.AssemblyReference.cache
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.AssemblyInfoInputs.cache
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.AssemblyInfo.cs
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.CoreCompileInputs.cache
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.csproj.CopyComplete
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.dll
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.pdb
+/Users/rizaagustiansyah/Documents/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.1/Kalkulator.genruntimeconfig.cache
